@@ -1,6 +1,3 @@
-# final_back-end
-// "C:\Program Files\MongoDB\Server\6.0\bin\mongod.exe" --dbpath="c:\data\db
-
 # News Explorer Backend
 
 This is the back end for the News Explorer application. It's a server responsible for handling http requests from my-app in final_front-end as well manipulating a database.
